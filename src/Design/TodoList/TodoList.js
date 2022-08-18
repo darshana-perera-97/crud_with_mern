@@ -5,7 +5,6 @@ export default function TodoList() {
   return (
     <div style={{ textAlign: "center" }}>
       <SingleTodo />
-      <SingleTodo />
     </div>
   );
 }

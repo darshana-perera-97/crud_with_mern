@@ -1,5 +1,5 @@
 import React from "react";
-import TodoList from "../TodoList/TodoList";
+import TodoList from "./TodoList/TodoList";
 import AddnewTodo from "./AddnewTodo/AddnewTodo";
 import Heading from "./Heading/Heading";
 
