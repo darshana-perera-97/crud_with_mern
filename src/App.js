@@ -1,7 +1,6 @@
 // import logo from "./logo.svg";
 import "./App.css";
 import Des from "./Design/Des";
-import Design from "./Design/Design";
 
 function App() {
   return (
@@ -22,7 +21,6 @@ function App() {
     //   </header>
     // </div>
     <div>
-      {/* <Design /> */}
       <Des />
     </div>
   );
